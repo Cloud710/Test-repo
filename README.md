@@ -1,25 +1,22 @@
 <!DOCTYPE html>
 <html>
-<head>
-<title>HTML TEXT Basic Page</title>
-</head>
 <body>
 <ul>
 <!-- 첫 번째 목록 -->
 <li>
-<b>과일</b>
+<b>따뜻한 음료</b>
 <ol>
-<li>사과</li>
-<li>바나나</li>
-<li>오렌지</li>
+<li>커피</li>
+<li>녹차</li>
+<li>둥글레차</li>
 </ol>
 </li>
 <li>
-<b>채소</b>
+<b>차가운 음료</b>
 <ol>
-<li>상추</li>
-<li>치커리</li>
-<li>양배추</li>
+<li>커피</li>
+<li>스무디</li>
+<li>식혜</li>
 </ol>
 </li>
 </ul>
